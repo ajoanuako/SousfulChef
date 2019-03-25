@@ -1,0 +1,35 @@
+
+body {
+
+font-family:"Knewave";
+text-align: : center;
+color: brown;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+color: black;
+font-size: 7em;
+align-content: center;
+
+}
+
+img {
+  opacity: 1;
+  width: 1000px;
+  max-height: 1000px;
+}
+
+a {
+  text-decoration-style: none;
+  text-decoration-color: none;
+}
+ p {width: 50%}
+
+ button {
+   align-items: center;
+   color: white;
+ }
